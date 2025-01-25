@@ -7,7 +7,7 @@ title = "shnulaa"
 
 
 [output.html]
-site-url = "/"
+site-url = "/mdBook-pages-template"
 default-theme = "black"
 preferred-dark-theme = "black"
 git-repository-url = "https://github.com/shnulaa/mdBook-pages-test"
