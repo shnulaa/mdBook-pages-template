@@ -713,9 +713,10 @@ function playground_text(playground, hidden = true) {
 
 
 
-
 // 添加 referrerpolicy 到所有 img 标签
 (function addReferrerPolicyToImages() {
+    const enableReferrerPolicy = true; // 控制是否开启 referrerpolicy  可以修改为配置项
+
     function addReferrerPolicy() {
         const images = document.querySelectorAll('img');
         images.forEach(img => {
@@ -725,5 +726,12 @@ function playground_text(playground, hidden = true) {
         });
     }
 
-    document.addEventListener('DOMContentLoaded', addReferrerPolicy);
+    if (enableReferrerPolicy) {
+        document.addEventListener('DOMContentLoaded', addReferrerPolicy);
+    }
+})();
+
+
+
+
 })();
