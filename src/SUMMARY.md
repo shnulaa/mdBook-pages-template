@@ -4,12 +4,12 @@
     - [readme](about-the-author/readme.md)
 - [chapter_1](chapter_1.md)
 - [chapter_2](chapter_2.md)
-- [cs-basics](about-the-author/feelings-after-one-month-of-induction-training.md)
-    - [algorithms](about-the-author/feelings-after-one-month-of-induction-training.md)
+- [cs-basics]()
+    - [algorithms]()
             - [几道常见的字符串算法题](cs-basics/algorithms/几道常见的字符串算法题.md)
             - [几道常见的链表算法题](cs-basics/algorithms/几道常见的链表算法题.md)
             - [剑指offer部分编程题](cs-basics/algorithms/剑指offer部分编程题.md)
-    - [data-structure](about-the-author/feelings-after-one-month-of-induction-training.md)
+    - [data-structure]()
             - [bloom-filter](cs-basics/data-structure/bloom-filter.md)
             - [pictures]()
                             - [图]()
@@ -27,14 +27,9 @@
             - [线性数据结构](cs-basics/data-structure/线性数据结构.md)
     - [network]()
             - [HTTPS中的TLS](cs-basics/network/HTTPS中的TLS.md)
-            - [images]()
-                            - [计算机网络知识点总结]()
-
             - [计算机网络常见面试题](cs-basics/network/计算机网络常见面试题.md)
             - [谢希仁老师的《计算机网络》内容总结](cs-basics/network/谢希仁老师的《计算机网络》内容总结.md)
     - [operating-system]()
-            - [images]()
-
             - [linux-intro](cs-basics/operating-system/linux-intro.md)
             - [shell-intro](cs-basics/operating-system/shell-intro.md)
             - [操作系统常见面试题&知识点总结](cs-basics/operating-system/操作系统常见面试题&知识点总结.md)
@@ -50,18 +45,9 @@
             - [some-thoughts-on-database-storage-time](database/mysql/some-thoughts-on-database-storage-time.md)
             - [transaction-isolation-level](database/mysql/transaction-isolation-level.md)
     - [Redis]()
-            - [images]()
-                            - [redis-all]()
-
-                            - [缓存读写策略]()
 
     - [redis]()
             - [3-commonly-used-cache-read-and-write-strategies](database/redis/3-commonly-used-cache-read-and-write-strategies.md)
-            - [images]()
-                            - [redis-all]()
-
-                            - [缓存读写策略]()
-
             - [redis知识点&面试题总结](database/redis/redis知识点&面试题总结.md)
     - [字符集](database/字符集.md)
     - [数据库基础知识](database/数据库基础知识.md)
@@ -74,8 +60,6 @@
             - [why-use-rpc](distributed-system/rpc/why-use-rpc.md)
     - [分布式协调]()
             - [zookeeper]()
-                            - [images]()
-
                             - [zookeeper-in-action](distributed-system/分布式协调/zookeeper/zookeeper-in-action.md)
                             - [zookeeper-intro](distributed-system/分布式协调/zookeeper/zookeeper-intro.md)
                             - [zookeeper-plus](distributed-system/分布式协调/zookeeper/zookeeper-plus.md)
@@ -141,8 +125,6 @@
                             - [exact]()
 
     - [readme](idea-tutorial/readme.md)
-- [images]()
-
 - [java]()
     - [basis]()
             - [BigDecimal解决浮点数运算精度丢失问题](java/basis/BigDecimal解决浮点数运算精度丢失问题.md)
@@ -154,26 +136,12 @@
             - [arraylist-source-code](java/collection/arraylist-source-code.md)
             - [concurrent-hash-map-source-code](java/collection/concurrent-hash-map-source-code.md)
             - [hashmap-source-code](java/collection/hashmap-source-code.md)
-            - [images]()
-                            - [linkedlist]()
-
             - [java集合使用注意事项](java/collection/java集合使用注意事项.md)
             - [java集合框架基础知识&面试题总结](java/collection/java集合框架基础知识&面试题总结.md)
     - [concurrent]()
             - [aqs原理以及aqs同步组件总结](java/concurrent/aqs原理以及aqs同步组件总结.md)
             - [atomic原子类总结](java/concurrent/atomic原子类总结.md)
             - [completablefuture-intro](java/concurrent/completablefuture-intro.md)
-            - [images]()
-                            - [interview-questions]()
-
-                            - [java线程池学习总结]()
-
-                            - [thread-local]()
-
-                            - [thread-pool]()
-
-                            - [多线程学习指南]()
-
             - [java并发基础常见面试题总结](java/concurrent/java并发基础常见面试题总结.md)
             - [java并发进阶常见面试题总结](java/concurrent/java并发进阶常见面试题总结.md)
             - [java线程池学习总结](java/concurrent/java线程池学习总结.md)
@@ -204,9 +172,8 @@
     - [tips]()
             - [jad](java/tips/jad.md)
             - [locate-performance-problems]()
-                            - [images]()
-
                             - [手把手教你定位常见Java性能问题](java/tips/locate-performance-problems/手把手教你定位常见Java性能问题.md)
+- [SUMMARY](SUMMARY.md)
 - [system-design]()
     - [basis]()
             - [naming](system-design/basis/naming.md)
@@ -218,11 +185,6 @@
                             - [mybatis-interview](system-design/framework/mybatis/mybatis-interview.md)
             - [netty](system-design/framework/netty.md)
             - [spring]()
-                            - [images]()
-                                                            - [spring-annotations]()
-
-                                                            - [spring-transaction]()
-
                             - [Spring&SpringBoot常用注解总结](system-design/framework/spring/Spring&SpringBoot常用注解总结.md)
                             - [SpringBoot自动装配原理](system-design/framework/spring/SpringBoot自动装配原理.md)
                             - [Spring事务总结](system-design/framework/spring/Spring事务总结.md)
@@ -233,9 +195,6 @@
     - [J2EE基础知识](system-design/J2EE基础知识.md)
     - [security]()
             - [basis-of-authority-certification](system-design/security/basis-of-authority-certification.md)
-            - [images]()
-                            - [basis-of-authority-certification]()
-
             - [jwt优缺点分析以及常见问题解决方案](system-design/security/jwt优缺点分析以及常见问题解决方案.md)
             - [readme](system-design/security/readme.md)
             - [sso-intro](system-design/security/sso-intro.md)
