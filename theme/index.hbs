@@ -145,6 +145,7 @@
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
+
                 {{> header}}
                 <div id="menu-bar-hover-placeholder"></div>
                 <div id="menu-bar" class="menu-bar sticky">
@@ -176,9 +177,10 @@
                         </button>
                         {{/if}}
 
-
-
-                        <a href="https://doc.shnulaa.xyz" id="mine-nav" class="icon-button-m" title="Change theme">
+                        <h1 class="menu-title">| {{ book_title }} |</h1>
+                        {{!-- 在此修改自定义导航栏 href="目标地址"--}}
+                        <a href="https://doc.shnulaa.xyz" id="mine-nav" target="_blank" class="icon-button-m"
+                            title="Home">
                             <i class="fa icon-container">
                                 <svg t="1708349718948" class="icon" viewBox="0 0 1024 1024" version="1.1"
                                     xmlns="http://www.w3.org/2000/svg" p-id="7609" width="14" height="14">
@@ -188,8 +190,9 @@
                                 </svg>
                                 Home</i>
                         </a>
-                        <a href="https://www.shnulaa.xyz" id="mine-nav" class="icon-button-m icon-button-m-about"
-                            title="Change theme">
+
+                        <a href="https://www.shnulaa.xyz" id="mine-nav" target="_blank"
+                            class="icon-button-m icon-button-m-about" title="Wiki">
                             <i class="fa icon-container"><svg t="1708352356042" class="icon" viewBox="0 0 1024 1024"
                                     version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="25548" width="15"
                                     height="15">
@@ -199,11 +202,59 @@
                                 </svg>Wiki</i>
                         </a>
 
+
+
                     </div>
 
-                    <h1 class="menu-title">{{ book_title }}</h1>
+                    <h1 class="menu-title"></h1>
 
                     <div class="right-buttons">
+                        {{!-- <a id="mine-nav" class="icon-button-m" title="LzzsSite - Home" onclick="switchLanguage()">
+                            <i class="fa icon-container">
+                                <svg class="icon-trans" viewBox="0 0 1024 1024" width="17" height="17"
+                                    style="transform: translateY(2.5px);">
+                                    <path
+                                        d="M213.333333 682.666667v42.666666a85.333333 85.333333 0 0 0 78.933334 85.12L298.666667 810.666667h85.333333a42.666667 42.666667 0 0 1 0 85.333333H298.666667a170.666667 170.666667 0 0 1-170.666667-170.666667v-42.666666a42.666667 42.666667 0 0 1 85.333333 0z m560.042667-242.602667l170.666667 426.666667a21.333333 21.333333 0 0 1-19.84 29.269333h-45.994667a21.333333 21.333333 0 0 1-19.797333-13.397333L812.544 768h-174.506667l-45.781333 114.602667a21.333333 21.333333 0 0 1-19.84 13.397333H526.506667a21.333333 21.333333 0 0 1-19.797334-29.269333l170.666667-426.666667a21.333333 21.333333 0 0 1 19.797333-13.397333h56.405334a21.333333 21.333333 0 0 1 19.84 13.397333zM725.333333 549.76L672.128 682.666667h106.325333L725.333333 549.76zM341.333333 106.666667V170.666667h149.333334a21.333333 21.333333 0 0 1 21.333333 21.333333v256a21.333333 21.333333 0 0 1-21.333333 21.333333H341.333333v106.666667a21.333333 21.333333 0 0 1-21.333333 21.333333h-42.666667a21.333333 21.333333 0 0 1-21.333333-21.333333V469.333333H106.666667a21.333333 21.333333 0 0 1-21.333334-21.333333v-256a21.333333 21.333333 0 0 1 21.333334-21.333333H256V106.666667a21.333333 21.333333 0 0 1 21.333333-21.333334h42.666667a21.333333 21.333333 0 0 1 21.333333 21.333334z m384 21.333333a170.666667 170.666667 0 0 1 170.666667 170.666667v42.666666a42.666667 42.666667 0 0 1-85.333333 0V298.666667a85.333333 85.333333 0 0 0-85.333334-85.333334h-85.333333a42.666667 42.666667 0 0 1 0-85.333333h85.333333zM256 256H170.666667v128h85.333333V256z m170.666667 0H341.333333v128h85.333334V256z"
+                                        fill="currentColor">
+                                    </path>
+                                </svg>
+                                <span id="languageLabel">English</span>
+                            </i>
+                        </a>
+
+                        <script>
+                            function switchLanguage() {
+                                // 获取当前的 URL
+                                var currentUrl = window.location.href;
+
+                                // 特殊的根目录 URL 检查
+                                const rootUrl = "https://lzzs.fun/mit6.175-labs-instruction";
+                                const rootUrlWithSlash = rootUrl + "/";
+
+                                // 检测当前语言并切换
+                                if (currentUrl === rootUrl || currentUrl === rootUrlWithSlash) {
+                                    // 如果当前是特定的根目录，直接重定向到英文页面
+                                    window.location.href = rootUrl + "/en/MIT6.175.html";
+                                } else if (currentUrl.includes('/zh/')) {
+                                    window.location.href = currentUrl.replace('/zh/', '/en/');
+                                    document.getElementById('languageLabel').innerText = 'English';
+                                } else {
+                                    window.location.href = currentUrl.replace('/en/', '/zh/');
+                                    document.getElementById('languageLabel').innerText = '中文';
+                                }
+                            }
+
+                            // 初始化语言标签
+                            window.onload = function () {
+                                var currentUrl = window.location.href;
+                                var label = currentUrl.includes('/zh/') ? 'English' : '中文';
+                                document.getElementById('languageLabel').innerText = label;
+                            }
+                        </script> --}}
+
+
+
+
                         {{#if print_enable}}
                         <a href="{{ path_to_root }}print.html" title="Print this book" aria-label="Print this book">
                             <i id="print-button" class="fa fa-print"></i>
@@ -219,7 +270,6 @@
                             <i id="git-edit-button" class="fa fa-edit"></i>
                         </a>
                         {{/if}}
-
                     </div>
                 </div>
 
@@ -248,45 +298,46 @@
 
                 <div id="content" class="content">
                     <main>
-                        {{{ content }}}
+
+                        <div id="content-area" class="content-area">
+                            <div id="content-area-inside" class="content-area-inside">
+
+                                {{{ content }}}
+
+                            </div>
+
+                            <nav class="nav-wrapper" aria-label="Page navigation">
+                                <!-- Mobile navigation buttons -->
+                                {{#previous}}
+                                <a rel="prev" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters previous"
+                                    title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                    <i class="fa fa-angle-left"></i>
+                                </a>
+                                {{/previous}}
+
+                                {{#next}}
+                                <a rel="next prefetch" href="{{ path_to_root }}{{link}}"
+                                    class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter"
+                                    aria-keyshortcuts="Right">
+                                    <i class="fa fa-angle-right"></i>
+                                </a>
+                                {{/next}}
+
+                                <div style="clear: both"></div>
+                            </nav>
+                        </div>
+
                     </main>
 
-                    <nav class="nav-wrapper" aria-label="Page navigation">
-                        <!-- Mobile navigation buttons -->
-                        {{#previous}}
-                        <a rel="prev" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters previous"
-                            title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
-                            <i class="fa fa-angle-left"></i>
-                        </a>
-                        {{/previous}}
-
-                        {{#next}}
-                        <a rel="next prefetch" href="{{ path_to_root }}{{link}}" class="mobile-nav-chapters next"
-                            title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
-                            <i class="fa fa-angle-right"></i>
-                        </a>
-                        {{/next}}
-
-                        <div style="clear: both"></div>
+                    <nav id="current-content-toc" class="current-content-toc">
+                        <!-- 文章结构目录将在这里动态生成 -->
                     </nav>
+
                 </div>
+
+
             </div>
 
-            <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                {{#previous}}
-                <a rel="prev" href="{{ path_to_root }}{{link}}" class="nav-chapters previous" title="Previous chapter"
-                    aria-label="Previous chapter" aria-keyshortcuts="Left">
-                    <i class="fa fa-angle-left"></i>
-                </a>
-                {{/previous}}
-
-                {{#next}}
-                <a rel="next prefetch" href="{{ path_to_root }}{{link}}" class="nav-chapters next" title="Next chapter"
-                    aria-label="Next chapter" aria-keyshortcuts="Right">
-                    <i class="fa fa-angle-right"></i>
-                </a>
-                {{/next}}
-            </nav>
 
         </div>
 
