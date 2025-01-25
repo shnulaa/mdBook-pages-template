@@ -3,23 +3,16 @@ authors = ["shnulaa"]
 language = "zh-cn"
 multilingual = false
 src = "src"
-title = "shnulaa's mdBook"
+title = "shnulaa"
 
-[preprocessor.admonish]
-command = "mdbook-admonish"
-assets_version = "3.0.2"    # do not edit: managed by `mdbook-admonish install`
-
-[preprocessor.alerts]
 
 [output.html]
-default-theme = "latte"
-preferred-dark-theme = "mocha"
-additional-css = [
-  "theme/catppuccin.css",
-  "theme/catppuccin-admonish.css",
-  "theme/mdbook-admonish.css",
-  "theme/catppuccin-alerts.css",
-]
-no-section-label = true
+site-url = "/mdBook-pages-template"
+default-theme = "black"
+preferred-dark-theme = "black"
 git-repository-url = "https://github.com/shnulaa/mdBook-pages-test"
 git-repository-icon = "fa-github"
+
+
+[output.html.playground]
+editable = true
