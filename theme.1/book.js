@@ -726,6 +726,14 @@ document.addEventListener('DOMContentLoaded', function () {
     tocContent += '</ul>';
 
     tocContainer.innerHTML = tocContent;
+
+    const images = document.querySelectorAll('img');
+    images.forEach(img => {
+            if (!img.hasAttribute('referrerpolicy')) {
+                img.setAttribute('referrerpolicy', 'no-referrer');
+            }
+    });
+    
 });
 
 
@@ -761,15 +769,15 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 // 添加 referrerpolicy 到所有 img 标签
-(function addReferrerPolicyToImages() {
-    function addReferrerPolicy() {
-        const images = document.querySelectorAll('img');
-        images.forEach(img => {
-            if (!img.hasAttribute('referrerpolicy')) {
-                img.setAttribute('referrerpolicy', 'no-referrer');
-            }
-        });
-    }
+// (function addReferrerPolicyToImages() {
+//     function addReferrerPolicy() {
+//         const images = document.querySelectorAll('img');
+//         images.forEach(img => {
+//             if (!img.hasAttribute('referrerpolicy')) {
+//                 img.setAttribute('referrerpolicy', 'no-referrer');
+//             }
+//         });
+//     }
 
-    document.addEventListener('DOMContentLoaded', addReferrerPolicy);
-})();
+//     document.addEventListener('DOMContentLoaded', addReferrerPolicy);
+// })();
