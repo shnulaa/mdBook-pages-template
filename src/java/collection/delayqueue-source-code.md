@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: DelayQueue 源码分析
 category: Java

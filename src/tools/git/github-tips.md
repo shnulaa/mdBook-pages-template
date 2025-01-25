@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Github实用小技巧总结
 category: 开发工具

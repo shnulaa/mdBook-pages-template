@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: OSI 和 TCP/IP 网络分层模型详解（基础）
 category: 计算机基础

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Redis为什么用跳表实现有序集合
 category: 数据库

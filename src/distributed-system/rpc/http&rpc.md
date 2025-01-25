@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 有了 HTTP 协议，为什么还要有 RPC ？
 category: 分布式

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 十大经典排序算法总结
 category: 计算机基础

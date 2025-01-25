@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 序列化详解
 category: Java

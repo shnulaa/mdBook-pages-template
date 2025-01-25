@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 《Java 必读源码系列》
 category: 知识星球

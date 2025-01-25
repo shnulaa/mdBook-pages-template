@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 乐观锁和悲观锁详解
 category: Java

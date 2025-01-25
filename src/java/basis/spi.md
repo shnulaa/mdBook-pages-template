@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java SPI 机制详解
 category: Java

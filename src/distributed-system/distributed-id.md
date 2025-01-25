@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 分布式ID介绍&实现方案总结
 category: 分布式

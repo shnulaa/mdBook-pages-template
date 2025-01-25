@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: InnoDB存储引擎对MVCC的实现
 category: 数据库

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 数据冷热分离详解
 category: 高性能

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 定时任务详解
 category: 系统设计

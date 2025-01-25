@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 常见并发容器总结
 category: Java

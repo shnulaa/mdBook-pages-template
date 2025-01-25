@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: JDK监控和故障处理工具总结
 category: Java

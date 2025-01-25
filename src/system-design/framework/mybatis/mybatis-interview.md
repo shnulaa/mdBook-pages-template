@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: MyBatis常见面试题总结
 category: 框架

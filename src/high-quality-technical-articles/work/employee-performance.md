@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 聊聊大厂的绩效考核
 category: 技术文章精选集

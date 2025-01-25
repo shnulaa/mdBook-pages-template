@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 线性数据结构
 category: 计算机基础

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: JMM（Java 内存模型）详解
 category: Java

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Maven最佳实践
 category: 开发工具

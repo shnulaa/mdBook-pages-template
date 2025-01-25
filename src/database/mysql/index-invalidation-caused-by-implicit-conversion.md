@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: MySQL隐式转换造成索引失效
 category: 数据库

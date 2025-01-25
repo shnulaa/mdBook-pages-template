@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 树
 category: 计算机基础

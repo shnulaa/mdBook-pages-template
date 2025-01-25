@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: JVM线上问题排查和性能调优案例
 category: Java

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 图
 category: 计算机基础

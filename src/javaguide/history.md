@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 网站历史
 category: 走近项目

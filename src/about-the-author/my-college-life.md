@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 害，毕业三年了！
 category: 走近作者

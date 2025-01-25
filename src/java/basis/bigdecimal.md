@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: BigDecimal 详解
 category: Java

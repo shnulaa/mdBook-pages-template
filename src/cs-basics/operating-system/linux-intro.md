@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Linux 基础知识总结
 category: 计算机基础

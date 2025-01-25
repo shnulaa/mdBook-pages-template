@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 布隆过滤器
 category: 计算机基础

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: SSO 单点登录详解
 category: 系统设计

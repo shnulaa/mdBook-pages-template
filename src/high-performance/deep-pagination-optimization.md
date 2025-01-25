@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 深度分页介绍及优化建议
 category: 高性能

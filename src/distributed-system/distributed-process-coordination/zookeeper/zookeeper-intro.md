@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: ZooKeeper相关概念总结(入门)
 category: 分布式

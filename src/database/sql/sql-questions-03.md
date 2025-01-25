@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: SQL常见面试题总结（3）
 category: 数据库

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 泛型&通配符详解
 category: Java

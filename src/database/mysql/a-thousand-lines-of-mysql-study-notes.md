@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 一千行 MySQL 学习笔记
 category: 数据库

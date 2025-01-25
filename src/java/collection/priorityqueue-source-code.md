@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: PriorityQueue 源码分析（付费）
 category: Java

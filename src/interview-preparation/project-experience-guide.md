@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 项目经验指南
 category: 面试准备

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 《Java 面试指北》
 category: 知识星球

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 类文件结构详解
 category: Java

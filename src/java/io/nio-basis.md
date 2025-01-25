@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java NIO 核心知识总结
 category: Java

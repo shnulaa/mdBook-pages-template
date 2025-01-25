@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 如何基于Redis实现延时任务
 category: 数据库

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: MySQL三大日志(binlog、redo log和undo log)详解
 category: 数据库

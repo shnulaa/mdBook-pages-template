@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: AQS 详解
 category: Java

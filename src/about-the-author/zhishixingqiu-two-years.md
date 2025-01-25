@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 我的知识星球 4 岁了！
 category: 知识星球

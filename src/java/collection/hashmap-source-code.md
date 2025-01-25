@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: HashMap 源码分析
 category: Java

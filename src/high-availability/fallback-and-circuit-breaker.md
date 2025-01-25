@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 降级&熔断详解(付费)
 category: 高可用

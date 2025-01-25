@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: API网关基础知识总结
 category: 分布式

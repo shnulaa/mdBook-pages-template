@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: IoC & AOP详解（快速搞懂）
 category: 框架

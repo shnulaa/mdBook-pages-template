@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 坚持写技术博客六年了!
 category: 走近作者

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 我曾经也是网瘾少年
 category: 走近作者

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 17 新特性概览（重要）
 category: Java

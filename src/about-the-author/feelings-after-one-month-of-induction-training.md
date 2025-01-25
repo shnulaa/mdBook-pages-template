@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 入职培训一个月后的感受
 category: 走近作者

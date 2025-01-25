@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: ArrayList 源码分析
 category: Java

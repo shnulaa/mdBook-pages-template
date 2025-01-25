@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 常见加密算法总结
 category: 系统设计

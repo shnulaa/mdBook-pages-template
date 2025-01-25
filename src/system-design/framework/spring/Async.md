@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Async 注解原理分析
 category: 框架

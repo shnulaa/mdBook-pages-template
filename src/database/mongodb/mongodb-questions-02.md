@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: MongoDB常见面试题总结（下）
 category: 数据库

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 线程池详解
 category: Java

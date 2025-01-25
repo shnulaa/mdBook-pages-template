@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 语法糖详解
 category: Java

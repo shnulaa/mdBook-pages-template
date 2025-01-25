@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: MySQL高性能优化规范建议总结
 category: 数据库

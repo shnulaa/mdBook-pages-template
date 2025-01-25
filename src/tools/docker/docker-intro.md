@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Docker核心概念总结
 category: 开发工具

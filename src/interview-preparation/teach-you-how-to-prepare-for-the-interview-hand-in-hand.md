@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 手把手教你如何准备Java面试(重要)
 category: 知识星球

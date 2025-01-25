@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 经典算法思想总结（含LeetCode题目推荐）
 category: 计算机基础

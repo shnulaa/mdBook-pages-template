@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 19 新特性概览
 category: Java

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 常见面试题自测(付费)
 category: 知识星球

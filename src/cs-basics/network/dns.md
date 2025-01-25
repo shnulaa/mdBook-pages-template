@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: DNS 域名系统详解（应用层）
 category: 计算机基础

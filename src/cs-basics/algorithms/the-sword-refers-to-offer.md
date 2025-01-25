@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 剑指offer部分编程题
 category: 计算机基础

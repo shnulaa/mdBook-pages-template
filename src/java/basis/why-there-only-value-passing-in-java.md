@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 值传递详解
 category: Java

@@ -1,4 +1,3 @@
-[TOC]
 [《Java 面试指北》](../zhuanlan/java-mian-shi-zhi-bei.md)（点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 [JavaGuide](https://javaguide.cn/#/) 的补充完善，两者可以配合使用。
 
 ![《Java 面试指北》内容概览](https://oss.javaguide.cn/xingqiu/image-20220304102536445.png)

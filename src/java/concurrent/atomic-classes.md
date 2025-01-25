@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Atomic 原子类总结
 category: Java

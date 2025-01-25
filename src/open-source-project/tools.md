@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 优质开源开发工具
 category: 开源项目

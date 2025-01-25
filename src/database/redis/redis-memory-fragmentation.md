@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Redis内存碎片详解
 category: 数据库

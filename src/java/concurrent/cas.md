@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: CAS 详解
 category: Java

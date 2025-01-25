@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 搜索引擎必读经典书籍
 category: 计算机书籍

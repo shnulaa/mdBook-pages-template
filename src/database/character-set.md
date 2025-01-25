@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 字符集详解
 category: 数据库

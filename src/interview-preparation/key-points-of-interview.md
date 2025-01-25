@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java面试重点总结(重要)
 category: 面试准备

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: CompletableFuture 详解
 category: Java

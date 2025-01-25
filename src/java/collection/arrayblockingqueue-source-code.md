@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: ArrayBlockingQueue 源码分析
 category: Java

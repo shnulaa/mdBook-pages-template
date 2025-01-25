@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 数据脱敏方案总结
 category: 系统设计

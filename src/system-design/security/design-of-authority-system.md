@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 权限系统设计详解
 category: 系统设计

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 从ReentrantLock的实现看AQS的原理及应用
 category: Java

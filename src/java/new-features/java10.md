@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 10 新特性概览
 category: Java

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: JWT 基础概念详解
 category: 系统设计

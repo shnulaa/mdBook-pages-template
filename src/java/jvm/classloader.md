@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 类加载器详解（重点）
 category: Java

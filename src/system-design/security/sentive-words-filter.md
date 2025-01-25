@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: 敏感词过滤方案总结
 category: 系统设计

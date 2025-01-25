@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: CAP & BASE理论详解
 category: 分布式

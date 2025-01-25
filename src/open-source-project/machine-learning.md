@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java 优质开源 AI 项目
 category: 开源项目

@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: MySQL事务隔离级别详解
 category: 数据库

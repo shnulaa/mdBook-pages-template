@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java基础常见面试题总结(上)
 category: Java

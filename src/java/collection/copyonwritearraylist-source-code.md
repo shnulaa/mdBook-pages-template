@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: CopyOnWriteArrayList 源码分析
 category: Java

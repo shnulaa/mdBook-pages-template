@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Java IO 设计模式总结
 category: Java

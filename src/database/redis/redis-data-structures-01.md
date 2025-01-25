@@ -1,4 +1,3 @@
-[TOC]
 ---
 title: Redis 5 种基本数据类型详解
 category: 数据库
