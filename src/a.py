@@ -63,7 +63,7 @@ def create_summary_file(src_directory, output_file="SUMMARY.md", ignore_dirs=[],
 
 # 调整以下变量以适应您的项目结构
 src_directory = "/opt/1panel/apps/mkdocs-material/mkdocs/data/docs/mdBook-pages-template/src"  # 您存放Markdown文件的顶级目录
-ignore_dirs = ["ignore_this_folder", "figs", "examples", "images"]  # 要忽略的文件夹名列表
+ignore_dirs = ["ignore_this_folder", "figs", "examples", "images", "pictures"]  # 要忽略的文件夹名列表
 # 在调用时选择是否启用自然排序
 create_summary_file(src_directory, ignore_dirs=ignore_dirs, use_natural_sort=True)
 
