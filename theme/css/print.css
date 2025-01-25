@@ -1,11 +1,8 @@
+
 #sidebar,
 #menu-bar,
 .nav-chapters,
 .mobile-nav-chapters {
-    display: none;
-}
-
-.current-content-toc {
     display: none;
 }
 
@@ -16,7 +13,7 @@
 }
 
 #content {
-    width: 125%;
+    max-width: none;
     margin: 0;
     padding: 0;
 }
@@ -29,30 +26,21 @@ code {
     direction: ltr !important;
 }
 
-pre>.buttons {
+pre > .buttons {
     z-index: 2;
 }
 
-a,
-a:visited,
-a:active,
-a:hover {
+a, a:visited, a:active, a:hover {
     color: #4183c4;
     text-decoration: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     page-break-inside: avoid;
     page-break-after: avoid;
 }
 
-pre,
-code {
+pre, code {
     page-break-inside: avoid;
     white-space: pre-wrap;
 }
