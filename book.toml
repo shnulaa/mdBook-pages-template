@@ -15,10 +15,10 @@ assets_version = "3.0.2"    # do not edit: managed by `mdbook-admonish install`
 default-theme = "latte"
 preferred-dark-theme = "mocha"
 additional-css = [
-  "./theme/catppuccin.css",
-  "./theme/catppuccin-admonish.css",
-  "./theme/mdbook-admonish.css",
-  "./theme/catppuccin-alerts.css",
+  "theme/catppuccin.css",
+  "theme/catppuccin-admonish.css",
+  "theme/mdbook-admonish.css",
+  "theme/catppuccin-alerts.css",
 ]
 no-section-label = true
 git-repository-url = "https://github.com/shnulaa/mdBook-pages-test"
