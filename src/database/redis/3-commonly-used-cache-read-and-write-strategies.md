@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 3种常用的缓存读写策略详解
 category: 数据库

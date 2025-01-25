@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: MySQL日期类型选择建议
 category: 数据库

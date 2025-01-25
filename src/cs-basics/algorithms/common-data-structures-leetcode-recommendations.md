@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 常见数据结构经典LeetCode题目推荐
 category: 计算机基础

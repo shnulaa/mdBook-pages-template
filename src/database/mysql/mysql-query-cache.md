@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: MySQL查询缓存详解
 category: 数据库

@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Gossip 协议详解
 category: 分布式

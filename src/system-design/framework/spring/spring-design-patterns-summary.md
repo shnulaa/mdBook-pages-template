@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Spring 中的设计模式详解
 category: 框架

@@ -1,3 +1,4 @@
+[TOC]
 # 程序人生
 
 <!-- @include: @small-advertisement.snippet.md -->

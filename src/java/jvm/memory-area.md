@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java内存区域详解（重点）
 category: Java

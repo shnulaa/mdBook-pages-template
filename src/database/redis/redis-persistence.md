@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Redis持久化机制详解
 category: 数据库

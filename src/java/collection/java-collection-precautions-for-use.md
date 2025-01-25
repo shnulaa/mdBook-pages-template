@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java集合使用注意事项总结
 category: Java

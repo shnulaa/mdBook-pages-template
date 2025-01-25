@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 冗余设计详解
 category: 高可用

@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Redis集群详解(付费)
 category: 数据库

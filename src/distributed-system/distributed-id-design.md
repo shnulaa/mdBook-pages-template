@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 分布式ID设计指南
 category: 分布式

@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Redis 3 种特殊数据类型详解
 category: 数据库

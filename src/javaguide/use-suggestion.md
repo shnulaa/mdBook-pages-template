@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 使用建议
 category: 走近项目

@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Kafka常见问题总结
 category: 高性能

@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 高可用系统设计指南
 category: 高可用

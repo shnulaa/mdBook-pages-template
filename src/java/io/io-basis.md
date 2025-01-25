@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java IO 基础知识总结
 category: Java

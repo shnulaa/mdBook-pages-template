@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 类加载过程详解
 category: Java

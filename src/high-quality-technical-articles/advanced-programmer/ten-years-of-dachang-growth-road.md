@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 十年大厂成长之路
 category: 技术文章精选集

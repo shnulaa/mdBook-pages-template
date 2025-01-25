@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 红黑树
 category: 计算机基础

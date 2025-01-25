@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 分布式锁介绍
 category: 分布式

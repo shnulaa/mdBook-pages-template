@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: NoSQL基础知识总结
 category: 数据库

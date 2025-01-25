@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java 11 新特性概览
 category: Java

@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 软件工程简明教程
 category: 系统设计

@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: MySQL自增主键一定是连续的吗
 category: 数据库

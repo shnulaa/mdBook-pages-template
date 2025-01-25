@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: MySQL索引详解
 category: 数据库

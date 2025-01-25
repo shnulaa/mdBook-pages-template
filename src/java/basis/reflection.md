@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java 反射机制详解
 category: Java

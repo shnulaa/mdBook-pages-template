@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: MySQL执行计划分析
 category: 数据库

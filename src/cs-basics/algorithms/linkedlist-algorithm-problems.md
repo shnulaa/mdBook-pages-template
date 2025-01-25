@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 几道常见的链表算法题
 category: 计算机基础

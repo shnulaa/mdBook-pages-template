@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java IO 模型详解
 category: Java

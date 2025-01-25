@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Paxos 算法详解
 category: 分布式

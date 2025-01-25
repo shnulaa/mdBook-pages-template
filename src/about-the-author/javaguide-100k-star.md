@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: JavaGuide 开源项目 100K Star 了！
 category: 走近作者

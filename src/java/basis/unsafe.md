@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java 魔法类 Unsafe 详解
 category: Java

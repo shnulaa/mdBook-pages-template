@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: SQL语句在MySQL中的执行过程
 category: 数据库

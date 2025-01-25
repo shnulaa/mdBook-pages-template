@@ -1,3 +1,4 @@
+[TOC]
 ---
 category: 计算机基础
 tag:

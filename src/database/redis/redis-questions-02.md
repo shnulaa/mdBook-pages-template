@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Redis常见面试题总结(下)
 category: 数据库

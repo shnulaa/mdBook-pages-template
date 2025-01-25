@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 常见SQL优化手段总结（付费）
 category: 高性能

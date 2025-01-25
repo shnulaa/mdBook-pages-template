@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: MySQL常见面试题总结
 category: 数据库

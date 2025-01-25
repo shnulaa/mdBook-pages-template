@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java8 新特性实战
 category: Java

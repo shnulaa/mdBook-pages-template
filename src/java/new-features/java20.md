@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: Java 20 新特性概览
 category: Java

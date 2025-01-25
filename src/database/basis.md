@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 数据库基础知识总结
 category: 数据库

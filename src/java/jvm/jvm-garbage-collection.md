@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: JVM垃圾回收详解（重点）
 category: Java

@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: LinkedHashMap 源码分析
 category: Java

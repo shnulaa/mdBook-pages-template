@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: HTTP 1.0 vs HTTP 1.1（应用层）
 category: 计算机基础

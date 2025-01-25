@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 设计模式常见面试题总结
 category: 系统设计

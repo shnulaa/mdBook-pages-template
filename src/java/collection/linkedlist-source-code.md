@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: LinkedList 源码分析
 category: Java

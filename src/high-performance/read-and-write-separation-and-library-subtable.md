@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: 读写分离和分库分表详解
 category: 高性能

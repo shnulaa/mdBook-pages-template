@@ -1,3 +1,4 @@
+[TOC]
 ---
 title: ThreadLocal 详解
 category: Java
