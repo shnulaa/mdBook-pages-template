@@ -5,6 +5,8 @@ multilingual = false
 src = "src"
 title = "shnulaa"
 
+[preprocessor.toc]
+command = "mdbook-toc"
 
 [output.html]
 site-url = "/mdBook-pages-template"
